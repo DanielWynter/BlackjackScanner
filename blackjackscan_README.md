@@ -52,7 +52,7 @@ python jugar_blackjack.py
 * Simula una partida donde el jugador puede decidir si pedir más cartas o plantarse.
 
 ## 🚀 Mejoras Futuras
-* Captura desde cámara en tiempo real.
-* Reconocimiento más robusto para texto.
-* Interfaz gráfica.
-* Modo multijugador.
+* Captura desde cámara en tiempo real
+* Captura optimizada en tiempo real desde cámara.
+* Mayor precisión en reconocimiento de texto y símbolos.
+* Implementación de una interfaz gráfica interactiva.
