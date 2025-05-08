@@ -37,12 +37,12 @@ pip install opencv-python numpy easyocr
 ## ▶️ Como ejecutar
 Ejecuta el script de escaneo:
 ```bash
-python escanear_cartas.py
+python CardScanner.py
 ```
 
 Luego, ejecuta el simulador de blackjack:
 ```bash
-python jugar_blackjack.py
+python blackjackscan_juego.py
 ```
 
 ## 🔍 Funcionalidad
