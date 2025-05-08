@@ -6,7 +6,7 @@
 ---
 
 ## 🎯 Objetivo
-Este proyecto permite escanear imágenes de cartas físicas de blackjack, detectar su número y palo usando técnicas de visión por computadora y OCR (reconocimiento óptico de caracteres), y luego simular una partida de blackjack interactiva con esas cartas.
+Este proyecto permite escanear imágenes de cartas físicas de blackjack, detectar su número y palo usando OCR (reconocimiento óptico de caracteres), y luego simular una partida de blackjack interactiva con esas cartas.
 
 ---
 
